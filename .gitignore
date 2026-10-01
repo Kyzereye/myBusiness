@@ -1,0 +1,10 @@
+.DS_Store
+.env
+node_modules/
+
+# Nested repos (each has its own GitHub repo, or will)
+/KCW/pokersheets/
+/KCW/pokerleaguesHQ/
+/KCW/poker_signup/
+/KyzereyePublishing/books/
+/KyzereyePublishing/puzzle-books/
