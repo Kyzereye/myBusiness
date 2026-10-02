@@ -15,7 +15,7 @@ Each project below is **its own GitHub repo**. myBusiness's `.gitignore` skips t
 |---|---|
 | `KCW/pokersheets` | `Kyzereye/pokersheets` |
 | `KCW/pokerleaguesHQ` | `Kyzereye/pokerleaguesHQ` |
-| `KCW/poker_signup` | none yet |
+| `KCW/poker_signup` | `Kyzereye/poker_signup` |
 | `KyzereyePublishing/books` | `Kyzereye/kyzereye-books` |
 | `KyzereyePublishing/puzzle-books` | `Kyzereye/puzzle-books` |
 
