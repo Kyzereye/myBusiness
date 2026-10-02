@@ -20,4 +20,3 @@ Each project below is **its own GitHub repo**. myBusiness's `.gitignore` skips t
 | `KyzereyePublishing/puzzle-books` | `Kyzereye/puzzle-books` |
 
 The full list across all computers lives in `myLife/repos.txt`. Run `myLife/scripts/clone-all.sh` to set up a new computer.
-# myBusiness
