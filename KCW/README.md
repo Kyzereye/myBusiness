@@ -6,7 +6,7 @@
 
 ## Goal
 
-Find more paying software work and deliver it well. This feeds the "highly successful creative business" desire in `myLife/journal/moving-forward/ongoing.md` (net $20,000 a month).
+Find more paying software work and deliver it well. This feeds the "highly successful creative business" desire in `myLife/activities/journal/moving-forward/ongoing.md` (net $20,000 a month).
 
 ## Weekly target
 
